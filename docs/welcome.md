@@ -4,7 +4,7 @@ title: Welcome to Harmony
 slug: /
 ---
 
-Bit is a platform for building with components and use them to compose apps and systems. Building with Bit gives a host of benefits for our codebase's modularity, composability, testability, and scalability.
+Bit is a platform for building with components and use them to compose apps and systems. Building with Bit gives a lot of benefits for our codebase's modularity, composability, testability, and scalability.
 
 ## Get started
 
